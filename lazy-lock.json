@@ -1,0 +1,6 @@
+{
+  "defx.nvim": { "branch": "master", "commit": "1049fc442e8c35b6eba45ba4be1e21b9acb07010" },
+  "fzf-lua": { "branch": "main", "commit": "209e9405d2df949cbffe5b7b9329756b83bf2339" },
+  "lazy.nvim": { "branch": "main", "commit": "96584866b9c5e998cbae300594d0ccfd0c464627" },
+  "vim": { "branch": "master", "commit": "6495b4ff40479ec7705addb4ea800ec308026648" }
+}
