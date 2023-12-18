@@ -15,5 +15,10 @@ return {
     'Shougo/defx.nvim',
     config = function()
     end
-}
+  },
+  {
+    'github/copilot.vim',
+    config = function()
+    end
+  }
 }
